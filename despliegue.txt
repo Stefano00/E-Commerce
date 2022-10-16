@@ -1,2 +1,3 @@
 ng add angular-cli-ghpages
 ng deploy --base-href=https://stefano00.github.io/E-Commerce/
+ngh --no-silent
